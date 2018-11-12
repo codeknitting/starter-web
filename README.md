@@ -18,6 +18,8 @@ Deployment can be done on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and than issue Pull Requests for review.
+
 ### Copyright
 
 2018 allot.
