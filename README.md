@@ -17,3 +17,7 @@ for Git.
 Deployment can be done on any web server or even local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2018 allot.
