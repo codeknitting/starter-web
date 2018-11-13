@@ -24,4 +24,4 @@ Please fork this repository and than issue Pull Requests for review.
 
 ### Copyright
 
-2018 allot.
+2018 allot. All rights reserved.
